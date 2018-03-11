@@ -141,7 +141,6 @@ exports.config = {
             './step-definitions/given.js',
             './step-definitions/when.js',
             './step-definitions/then.js',
-            './step-definitions/before_afterHooks.js',
         ],        // <string[]> (file/dir) require files before executing features
         backtrace: false,   // <boolean> show full backtrace for errors
         compiler: [],       // <string[]> ("extension:module") require files with the given EXTENSION after requiring MODULE (repeatable)
